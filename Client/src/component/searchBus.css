@@ -1,0 +1,15 @@
+h1{
+  text-align: center
+}
+
+.nameBus{
+  font-size: 30px;
+}
+
+.descriptionBus{
+  font-size: 18px
+}
+
+.Bus{
+  cursor: pointer;
+}
